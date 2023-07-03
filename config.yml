@@ -1,10 +1,10 @@
 ---
-baseURL: https://piko-heksagon.netlify.app/
+baseURL: https://www2.tanchen.net/
 languageCode: en-us
-title: Piko
+title: TAN CHEN GROUP
 theme: piko
 paginate: "9"
-copyright: A template by [Heksagon](https://www.heksagon.net "Your most friendly developer")
+copyright: Copyright 2023 [TAN CHEN GROUP](https://www2.tanchen.net/ "The World most powerful product")
 googleAnalytics: # Enter Google Analytics ie. UA-012345678-9
 enableRobotsTXT: true
 buildDrafts: false
@@ -43,8 +43,8 @@ params:
   images:
   - "/uploads/og.webp"
   label:
-    title: _Piko Title_
-    text: Welcome to Piko
+    title: _TAN CHEN GROUP_
+    text: Welcome to TAN CHEN GROUP
     lightNavIcon: /uploads/sun.svg
     darkNavIcon: /uploads/zap.svg
     iconHeight: "35"
@@ -76,38 +76,38 @@ params:
     heroUpperTitle: 
     heroTitle: Piko
     heroDescription: Lightweight theme for your every need
-    heroCTAPrimaryText: Blog
+    heroCTAPrimaryText: News
     heroCTAPrimaryUrl: "/blog/"
     heroCTASecondaryText: Contact Me
     heroCTASecondaryUrl: "/contact/"
     heroBackgroundImage: "/uploads/portfolio-1.webp"
     # Blog Section
     disableBlogSection: false
-    blogTitle: Latest Posts
-    blogDescription: This is my latest blog posts
-    seeMoreText: More Posts
+    blogTitle: Latest News
+    blogDescription: Our latest News
+    seeMoreText: More News
     # About Section    
     disableAboutSection: false
     aboutTitle: About
-    aboutDescription: Just something about me
+    aboutDescription: about our group
     aboutImgUrl: "/uploads/self.webp"
-    aboutContent: Hi guys. This is where you put something about yourself.
+    aboutContent: Welcome to our group. Here is something you want to know.
     # Portfolio Section
     disablePortfolioSection: false
-    portfolioTitle: Portfolio
-    portfolioDescription: Some of my works
+    portfolioTitle: Products
+    portfolioDescription: Our Products
     portfolio:
     - imageUrl: /uploads/portfolio-1.webp
       alt: # image alt for better SEO
-      description: Portfolio One.
+      description: Product 1.
       websiteUrl: #
     - imageUrl: /uploads/portfolio-2.webp
       alt: # image alt for better SEO
-      description: Portfolio Two.
+      description: Product Two.
       websiteUrl: #
     - imageUrl: /uploads/portfolio-3.webp
       alt: # image alt for better SEO
-      description: Portfolio Three.
+      description: Product Three.
       websiteUrl: #
   # Search Options (https://fusejs.io/)
   fuseOpts:
@@ -129,8 +129,13 @@ params:
     - link: plugins/js/feather.min.js
 menus:
   main: # Main Menu
-  - name: Blog
-    title: Blog
+  - name: Home
+    title: HOME
+    pre: home
+    url: "/"
+    weight: "10"
+  - name: News
+    title: NEWS
     pre: pen-tool
     url: "/blog"
     weight: "20"
@@ -147,7 +152,7 @@ menus:
   - name: Github
     title: 
     pre: github
-    url: https://github.com/heksagonnet/piko
+    url: https://github.com/
     weight: "50"
   search: # Search page's quick links
   - name: Categories

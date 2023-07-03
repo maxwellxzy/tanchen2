@@ -140,19 +140,19 @@ menus:
     url: "/blog"
     weight: "20"
   - name: Search
-    title: Search
+    title: SEARCH
     pre: search
     url: "/search"
     weight: "30"
   - name: Contact
-    title: Contact
+    title: CONTACT
     pre: mail
     url: "/contact"
     weight: "40"
-  - name: Github
-    title: 
-    pre: github
-    url: https://github.com/
+  - name: About
+    title: ABOUT
+    pre: about
+    url: "/abot"
     weight: "50"
   search: # Search page's quick links
   - name: Categories

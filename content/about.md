@@ -1,6 +1,6 @@
 ---
 title: "About" # in any language you want
-layout: "baseof" # is necessary
+layout: "terms" # is necessary
 searchHidden: true
 # url: "/archive"
 description: "About Our Group"

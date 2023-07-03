@@ -1,0 +1,13 @@
+drwxrwxr-x 5 maxwell maxwell 4096 Jul  3 19:55 ../
+-rw-rw-r-- 1 maxwell maxwell 1550 Jul  3 19:55 archives.html
+-rw-rw-r-- 1 maxwell maxwell  383 Jul  3 19:55 baseof.html
+-rw-rw-r-- 1 maxwell maxwell 1373 Jul  3 19:55 contact.html
+-rw-rw-r-- 1 maxwell maxwell  346 Jul  3 19:55 index.json
+-rw-rw-r-- 1 maxwell maxwell  370 Jul  3 19:55 legal.html
+-rw-rw-r-- 1 maxwell maxwell 4308 Jul  3 19:55 list.html
+drwxrwxr-x 2 maxwell maxwell 4096 Jul  3 19:55 _markup/
+-rw-rw-r-- 1 maxwell maxwell 2472 Jul  3 19:55 rss.xml
+-rw-rw-r-- 1 maxwell maxwell 2076 Jul  3 19:55 search.html
+-rw-rw-r-- 1 maxwell maxwell 1658 Jul  3 19:55 single.html
+-rw-rw-r-- 1 maxwell maxwell  606 Jul  3 19:55 terms.html
+-rw-rw-r-- 1 maxwell maxwell  191 Jul  3 19:55 thanks.html

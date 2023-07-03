@@ -1,7 +1,7 @@
 ---
 title: "About" # in any language you want
-layout: "terms" # is necessary
-searchHidden: true
+layout: "legal" # is necessary
+searchHidden: false
 # url: "/archive"
 description: "About Our Group"
 summary: "something about our group"

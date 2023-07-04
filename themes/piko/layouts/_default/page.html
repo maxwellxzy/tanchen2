@@ -1,0 +1,25 @@
+{{- define "main" }}
+<section class="container">
+  <hgroup>
+    {{ partial "breadcrumbs.html" . }}
+    <h1>{{ .Title }}</h1>
+    <p>{{ .Description }}</p>
+  </hgroup>
+  <div>
+    {{- if not (.Param
+    "disableAnchoredHeadings") }} {{- partial "anchored_headings.html"
+    .Content -}} {{- else }}{{ .Content }}{{ end }}
+          {{if .Params.Cover.Image }}<img
+        class="cover"
+        src="{{.Params.Cover.Image | absURL}}"
+        width="600"
+        height="400"
+        align="left"
+        layout="responsive"
+      >
+      </img
+      >{{end}}
+  </div>
+</section>
+{{- end }}{{/* end main */}}
+

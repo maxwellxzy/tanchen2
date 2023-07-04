@@ -1,5 +1,6 @@
 ---
 title: "Product"
+image: "/uploads/portfolio-2.webp"
 date: 2023-07-04T15:03:54+08:00
 layout: legal # is necessary
 author: "Maxwell"

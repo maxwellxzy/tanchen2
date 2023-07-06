@@ -31,3 +31,6 @@ Or from external sources:
 ```
 
 ![This is where you put the alt](https://images.unsplash.com/photo-1520085601670-ee14aa5fa3e8 "This is the image title")
+
+
+![This where you put the new images in images dir](/images/chromium.jpg "This is where you put the title")

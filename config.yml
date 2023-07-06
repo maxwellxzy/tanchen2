@@ -45,8 +45,8 @@ params:
   label:
     title: _TAN CHEN GROUP_
     text: Welcome to TAN CHEN GROUP
-    lightNavIcon: /uploads/sun.svg
-    darkNavIcon: /uploads/zap.svg
+    lightNavIcon: /uploads/sun4.svg
+    darkNavIcon: /uploads/zap4.svg
     iconHeight: "35"
     iconWIdth: "35"
   comments: true

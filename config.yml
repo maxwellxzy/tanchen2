@@ -4,7 +4,7 @@ languageCode: en-us
 title: TAN CHEN GROUP
 theme: piko
 paginate: "9"
-copyright: Copyright 2023 [TAN CHEN GROUP](https://www2.tanchen.net/ "The World most powerful product")
+copyright: Copyright 2023 [TANCHEN RESOURCES](https://www2.tanchen.net/ "The World most powerful product")
 googleAnalytics: # Enter Google Analytics ie. UA-012345678-9
 enableRobotsTXT: true
 buildDrafts: false
@@ -37,14 +37,14 @@ params:
     bing:
       SiteVerificationTag: # Bing Site Verification
   env: production
-  author: Your Name
-  description: Your website description
+  author: TanChen
+  description: Global Resources Operator
   math: false
   images:
   - "/uploads/og.webp"
   label:
-    title: _TAN CHEN GROUP_
-    text: Welcome to TAN CHEN GROUP
+    title: _TANCHEN RESOURCES_
+    text: Welcome to TanChen Resources
     lightNavIcon: /uploads/sun4.svg
     darkNavIcon: /uploads/zap4.svg
     iconHeight: "35"
@@ -63,19 +63,19 @@ params:
   contactFormAction: # Get link from https://formsubmit.io or https://fabform.io
   assets:
     disableFingerprinting: false
-    favicon: /uploads/zap.svg
-    favicon16x16: /uploads/zap.svg
-    favicon32x32: /uploads/zap.svg
-    apple_touch_icon: /uploads/zap.svg
-    safari_pinned_tab: /uploads/zap.svg
+    favicon: /uploads/zap4.svg
+    favicon16x16: /uploads/zap4.svg
+    favicon32x32: /uploads/zap4.svg
+    apple_touch_icon: /uploads/zap4.svg
+    safari_pinned_tab: /uploads/zap4.svg
   ShowReadingTime: true
   ShowBreadCrumbs: true
   homepage:
     # Hero Section
     disableHeroSection: false
     heroUpperTitle: 
-    heroTitle: TAN CHEN GROUP
-    heroDescription: To product something useful and powerful.
+    heroTitle: TanChen Resources
+    heroDescription: Global Resources Operator.
     heroCTAPrimaryText: News
     heroCTAPrimaryUrl: "/blog/"
     heroCTASecondaryText: Contact Me
@@ -89,9 +89,9 @@ params:
     # About Section    
     disableAboutSection: false
     aboutTitle: About
-    aboutDescription: about our group
+    aboutDescription: About Our Corpration
     aboutImgUrl: "/uploads/self.webp"
-    aboutContent: Welcome to our group. Here is something you want to know.
+    aboutContent: Welcome. Please Contact me.
     # Portfolio Section
     disablePortfolioSection: false
     portfolioTitle: Products
@@ -130,27 +130,27 @@ params:
 menus:
   main: # Main Menu
   - name: Home
-    title: HOME
+    title: Home
     pre: home
     url: "/"
     weight: "10"
   - name: News
-    title: NEWS
+    title: News
     pre: pen-tool
     url: "/blog"
     weight: "20"
   - name: Search
-    title: SEARCH
+    title: Search
     pre: search
     url: "/search"
     weight: "30"
   - name: Contact
-    title: CONTACT
+    title: Contact
     pre: mail
     url: "/contact"
     weight: "40"
   - name: About
-    title: ABOUT
+    title: About
     pre: smile
     url: "/about"
     weight: "50"
